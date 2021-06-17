@@ -7,27 +7,30 @@
     "members" : [
       {
         "name" : "Ko Jea Gun",
-        "age" : 22,
+        "etc" : "22살",
         "secretIdentity" : "이름",
         "powers" : [
-          "Radiation resistanc",
-          "Turning ",
-          "Radiation blast"
+          "수송초등학교 졸업",
+          "수송중학교 졸업 ",
+          "경동고등학교 졸업",
+          "동양미래대학교 재학중"
         ]
       },
       {
         "name" : "Preferred food",
-        "age" : 39,
+        "etc" : "술, 담배 안함(해본적도 없음)",
         "secretIdentity" : "종류",
         "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
+          "Junk Food(맥치킨버거)",
+          "국밥",
+          "김치찌개",
+          "고기(돼지,소)",
+          "치킨(시장치킨)"
         ]
       },
       {
         "name" : "Preferred music",
-        "age" : 1000000,
+        "etc" : "굉장히 까다로운 편",
         "secretIdentity" : "장르(가수)",
         "powers" : [
           "Hip-Hop",
