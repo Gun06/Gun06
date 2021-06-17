@@ -1,0 +1,41 @@
+{
+    "squadName" : "Super Hero Squad",
+    "homeTown" : "Metro City",
+    "Production" : 2021,
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "Ko Jea Gun",
+        "age" : 29,
+        "secretIdentity" : "이름",
+        "powers" : [
+          "Radiation resistanc",
+          "Turning ",
+          "Radiation blast"
+        ]
+      },
+      {
+        "name" : "Madame Uppercut",
+        "age" : 39,
+        "secretIdentity" : "Jane Wilson",
+        "powers" : [
+          "Million tonne punch",
+          "Damage resistance",
+          "Superhuman reflexes"
+        ]
+      },
+      {
+        "name" : "Eternal Flame",
+        "age" : 1000000,
+        "secretIdentity" : "Unknown",
+        "powers" : [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
+      }
+    ]
+  }
