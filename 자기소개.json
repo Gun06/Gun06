@@ -18,7 +18,7 @@
       },
       {
         "name" : "Preferred food",
-        "etc" : "술, 담배 안함(해본적도 없음)",
+        "etc" : "술,담배 해본적 없음",
         "secretIdentity" : "종류",
         "powers" : [
           "Junk Food(맥치킨버거)",
