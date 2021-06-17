@@ -7,7 +7,7 @@
     "members" : [
       {
         "name" : "Ko Jea Gun",
-        "age" : 29,
+        "age" : 22,
         "secretIdentity" : "이름",
         "powers" : [
           "Radiation resistanc",
@@ -16,9 +16,9 @@
         ]
       },
       {
-        "name" : "Madame Uppercut",
+        "name" : "Preferred food",
         "age" : 39,
-        "secretIdentity" : "Jane Wilson",
+        "secretIdentity" : "종류",
         "powers" : [
           "Million tonne punch",
           "Damage resistance",
@@ -26,15 +26,14 @@
         ]
       },
       {
-        "name" : "Eternal Flame",
+        "name" : "Preferred music",
         "age" : 1000000,
-        "secretIdentity" : "Unknown",
+        "secretIdentity" : "장르(가수)",
         "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
+          "Hip-Hop",
+          "Jazz pop",
+          "Dreamy Music",
+          "K-pop(BTS)"
         ]
       }
     ]
