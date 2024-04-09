@@ -22,7 +22,7 @@
 <br>
 <div align=center>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626)](https://solved.ac/kogun0626/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kogun0626)](https://solved.ac/kogun0626)
 
 </div>
 
