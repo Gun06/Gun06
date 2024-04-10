@@ -4,7 +4,6 @@
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
 
-  <br>
   <h3>🛠 Tech Stack 🛠</h3>  
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
