@@ -14,14 +14,14 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
-
-  <br>
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
   
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   
+  <br>
+  <br>
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
 </div>
 <!--
 **Gun06/Gun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
