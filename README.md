@@ -5,7 +5,6 @@
   <h3>🛠 Tech Stack 🛠</h3>  
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=blue">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
@@ -13,7 +12,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
@@ -23,6 +23,7 @@
   <br>
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
 </div>
+
 <!--
 **Gun06/Gun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
