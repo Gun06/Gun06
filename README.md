@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
 
   <br>
 
@@ -42,6 +45,7 @@
   <br>
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
 </div>
+
 
 
 <!--
