@@ -7,7 +7,8 @@
     <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark" />
   <br/>
-    <hr>
+  <br/>
+  <hr>
   <br/>
 
   <h3>🛠 Tech Stack 🛠</h3>  
