@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark)
   <br/>
 
   <h3>🛠 Tech Stack 🛠</h3>  
