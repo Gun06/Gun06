@@ -2,7 +2,14 @@
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark)
+
+  <br/><br/> <!-- 줄바꿈 -->
+
+  <!-- 아래쪽 GitHub Stats 2개를 한 줄로 -->
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun06&langs_count=10&layout=compact&theme=dark" />
+  </span>
   <br/>
 
   <h3>🛠 Tech Stack 🛠</h3>  
