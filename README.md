@@ -1,15 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun06&langs_count=10&layout=compact&theme=dark" />
+    <br/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
-
-  <br/><br/> <!-- 줄바꿈 -->
-
-  <!-- 아래쪽 GitHub Stats 2개를 한 줄로 -->
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun06&langs_count=10&layout=compact&theme=dark" />
-  </span>
+    <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark" />
+  <br/>
+    <hr>
   <br/>
 
   <h3>🛠 Tech Stack 🛠</h3>  
