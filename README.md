@@ -5,8 +5,6 @@
     <br/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
     <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gun06&show_icons=true&theme=dark" />
-  <br/>
   <br/>
   <hr>
   <br/>
