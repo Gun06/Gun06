@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun06&langs_count=10&layout=compact&theme=dark&v=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun06&langs_count=10&layout=compact&theme=dark&v=2" />
     <br/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kogun0626"/>
     <br/>
@@ -36,6 +36,8 @@
         <td align="left">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
         </td>
       </tr>
       <tr>
